@@ -1,4 +1,4 @@
-# ecg-diabetes
+# Deep learning-based long-term risk evaluation of incident type 2 diabetes using electrocardiogram in a non-diabetic population: a retrospective, multicentre study (DOI:https://doi.org/10.1016/j.eclinm.2024.102445)
 
 ## Background. 
 Diabetes is a major public health concern. This study aimed to evaluate the long-term risk of incident type 2 diabetes in a non-diabetic population using a deep learning model (DLM) detecting prevalent type 2 diabetes using electrocardiogram (ECG). 
